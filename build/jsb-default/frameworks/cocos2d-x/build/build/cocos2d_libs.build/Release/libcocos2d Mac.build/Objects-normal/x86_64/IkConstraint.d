@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/IkConstraint.c \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/IkConstraint.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/IkConstraintData.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/BoneData.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/Bone.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/Skeleton.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/SkeletonData.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/SlotData.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/Skin.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/Attachment.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/EventData.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/Animation.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/Event.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/Slot.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/extension.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/Atlas.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/AttachmentLoader.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/RegionAttachment.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/MeshAttachment.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/SkinnedMeshAttachment.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/BoundingBoxAttachment.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/AnimationState.h \
+  /Users/luodong/Downloads/LOMO22/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/spine/AnimationStateData.h

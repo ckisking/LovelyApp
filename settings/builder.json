@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.l",
+  "startScene": "7874d55e-d5a1-4786-984d-b43998e2c788",
+  "title": "LOMO",
+  "webOrientation": "auto"
+}
